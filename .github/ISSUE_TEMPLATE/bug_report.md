@@ -1,27 +1,46 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
-labels: ''
-assignees: ''
+about: Report a bug or unexpected behavior in the mod
+title: "[BUG] "
+labels: 'bug'
+assignees: 'schmorri'
 
 ---
 
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Mod-Name / ID**
+What Mod is causing problems?
+
+**Mod version**
+Which version of the mod are you using?
+
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Load into mission / map '...'
+2. Perform action '...'
+3. Observe result
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Actual behavior**
+What actually happened instead.
+
+**Logs / Error output**
+Paste any relevant Enfusion Workbench console output or `profile/logs/` entries here.
+
+```
+(paste logs here)
+```
+
+**Screenshots / Video**
+If applicable, add screenshots or a short clip to help explain the problem.
+
+**Environment**
+- Server / Enfusion Workbench / Client: 
+- Platform (PC / Xbox / PS5): 
 
 **Additional context**
-Add any other context about the problem here.
+Any other information that might help (other mods loaded, server settings, etc.).
